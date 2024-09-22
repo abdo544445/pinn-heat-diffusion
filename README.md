@@ -1,8 +1,6 @@
----
 # Heat Transfer and Diffusion Equations Using Physics-Informed Neural Networks
 
 *"Author: Abdo Al-atrash*
----
 ## Table of Contents
 
 1. [Introduction](#Introduction)
